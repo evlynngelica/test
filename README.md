@@ -1,2 +1,3 @@
-# test
-cuman buat test
+NAMA: Evlyn Angelica
+NRP: 162021047
+KELAS: BB
